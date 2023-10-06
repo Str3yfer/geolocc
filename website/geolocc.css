@@ -1,0 +1,164 @@
+* {
+    font-family: 'Trebuchet MS';
+    margin: 0;
+}
+
+button {
+    width: 200px;
+    height: 35px;
+    border: 2px solid white;
+    color: white;
+    cursor: pointer;
+    background: rgba(0, 0, 0, 0);
+    font-weight: bolder;
+    transition: .5s ease;
+}
+
+button:hover {
+    background: rgba(255, 255, 255, .5);
+}
+
+select {
+    width: 200px;
+    height: 35px;
+    border: 2px solid white;
+    color: white;
+    cursor: pointer;
+    background: rgba(0, 0, 0, 0);
+    font-weight: bolder;
+    transition: .5s ease;
+}
+
+select option {
+    color: black;
+}
+
+select:hover {
+    background: rgba(255, 255, 255, .5);
+}
+
+.loading {
+    visibility: 0;
+    width: 0%;
+    height: 5px;
+    background: red;
+    animation: loadingAnimate 2s ease 1;
+}
+
+@keyframes loadingAnimate {
+    from { width: 0%; }
+    to { width: 100%; }
+}
+
+.menu {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 98%;
+    height: 50px;
+    background: black;
+    padding: 1%;
+    user-select: none;
+}
+
+.menu-content {
+    margin-left: 100px;
+    color: whitesmoke;
+}
+
+.menu-content a {
+    margin-right: 30px;
+    font-weight: bolder;
+    cursor: pointer;
+}
+
+.menu-content a:hover {
+    text-decoration: underline;
+}
+
+.title {
+    color: whitesmoke;
+    cursor: pointer;
+    margin-left: 30px;
+}
+
+.info {
+    margin: 30px;
+}
+
+.info_title {
+    margin-bottom: 30px;
+    user-select: none;
+}
+
+.logOption {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background: gray;
+    color: whitesmoke;
+    width: 100% - 40px; 
+    height: 0px;   
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    transition: .5s ease;
+}
+
+.logOption h3 {
+    user-select: none;
+}
+
+.logOption:hover {
+    background: rgb(97, 97, 97);
+}
+
+.logData {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background: gray;
+    color: whitesmoke;
+    width: 100% - 40px; 
+    height: 400px;   
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    margin-bottom: 20px;
+    overflow: auto;
+}
+
+.ips-config {
+    display: flex;
+    flex-direction: row;
+}
+
+.transfer-data-from-host, .remove-data-from-host {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background: black;
+    width: 250px;
+    height: 200px;
+    margin: 30px;
+    border-radius: 5px;
+}
+
+.transfer-data-from-host h4, .remove-data-from-host h4 {
+    position: relative;
+    top: -25px;
+}
+
+.transfer-data-from-host button, .remove-data-from-host button {
+    position: relative;
+    top: 15px;
+}
