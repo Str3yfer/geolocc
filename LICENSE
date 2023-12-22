@@ -1,21 +1,46 @@
-MIT License
+GEOLOCC - LIMITED USE LICENSE
 
-Copyright (c) 2023 Str3yfer
+This license ("License") is an agreement between you (the "User") and the copyright holder and/or author(s) of the software package GEOLOCC (the "Software"). By using, copying, modifying, or distributing the Software, the User agrees to be bound by the terms and conditions of this License.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. Definitions.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+"The Software" refers to the code, documentation, and any associated files provided with this license.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. Private Use.
+
+The User is granted permission to use the Software for private, non-commercial purposes only. Private use includes personal projects, academic research, or any other non-commercial activity that does not involve the copying, updating, changing, publishing, modifying, distribution, patent use, or trademark use of the Software beyond the scope of private, non-commercial use.
+
+3. Commercial Use with Consent.
+
+The User may use the Software for commercial purposes only with the express written consent of the copyright holder and/or author(s). Commercial use includes, but is not limited to, incorporating the Software into commercial products, creating derivative works for commercial gain, or any other use with the intent of generating revenue.
+
+4. Restrictions.
+
+The User is expressly prohibited from:
+
+   a. Copying, reproducing, or replicating the Software in part or in whole.
+   b. Updating, changing, or modifying the Software.
+   c. Publishing, distributing, or making the Software available to the public in any form.
+   d. Using the Software for commercial purposes without the express written consent of the copyright holder and/or author(s).
+   e. Seeking patents based on the Software.
+   f. Using any trademarks associated with the Software.
+
+5. No Derivative Works.
+
+The User may not create derivative works based on the Software.
+
+6. Termination.
+
+This License is effective until terminated. The copyright holder and/or author(s) may terminate this License at any time if the User violates its terms. Upon termination, the User must cease all use of the Software and destroy all copies in their possession.
+
+7. Disclaimer of Warranty.
+
+The Software is provided "as is," without warranty of any kind, expressed or implied. The entire risk as to the quality and performance of the Software is with the User. Should the Software prove defective, the User assumes the cost of all necessary servicing, repair, or correction.
+
+8. Limitation of Liability.
+
+In no event, unless required by applicable law or agreed to in writing, will the copyright holder and/or author(s) be liable to the User for damages, including any general, special, incidental, or consequential damages arising out of the use or inability to use the Software.
+
+9. Governing Law.
+
+This License shall be governed by and construed in accordance with the laws of [Your Jurisdiction], without regard to its conflict of law principles.
